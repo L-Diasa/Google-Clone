@@ -1,0 +1,49 @@
+main {
+    margin-top: 100px;  
+}
+
+.logo-img, 
+#search-input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    width: 400px;
+    line-height: 24px;
+    padding: 10 30;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    column-gap: 8px;
+}
+
+.btn {
+    background: #dfe1e5;
+    margin-top: 30px;
+    padding: 8 16;
+    border-radius: 4px;
+    font-size: 14px;
+    border-width: 2px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    text-decoration: none;
+}
+
+.btn:hover{
+    border-color: #1a5fcc;
+}
+
+.btn:visited {
+    color: unset;
+}
