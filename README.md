@@ -7,7 +7,7 @@ User can use it to search for anything.
 #### Revised the following material:
 
 - [x] CSS syntax
-- [x] Inine vs block elements
+- [x] Inline vs block elements
 - [x] Margins
 - [x] Paddings
 - [x] Borders
